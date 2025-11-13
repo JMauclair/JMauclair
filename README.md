@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Julien Mauclair (JMauclair)
 
-# Due to my recent suspension for no reasons on GitHub for no reason, we decided to stop using Github and any Github's related services
+# Due to my recent suspension for no reasons on GitHub, we decided to stop using Github and any Github's related services
 
 ## 🚀 CTO @ Stralya | Digital Innovator | Web & Hybrid App Specialist
 
