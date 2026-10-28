@@ -2,8 +2,6 @@
 
 ## 🚀 CTO @Stralya & @Klickbee | Digital Innovator | Web & Hybrid App Specialist
 
----
-
 ### 💼 Who Am I?
 
 I'm a passionate technologist and the CTO at [Stralya]([https://stralya.com](https://github.com/stralya-company)), where I lead teams in building innovative, user-focused digital solutions. My expertise lies in architecting and delivering custom web applications, e-commerce platforms, and next-generation websites that help businesses thrive in the digital age.
